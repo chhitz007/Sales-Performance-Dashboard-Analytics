@@ -44,12 +44,6 @@ The analysis is based on a comprehensive sales dataset containing:
 - **Purpose:** Ranks product sub-categories by sales volume
 - **Insight:** Identifies top-performing products and potential focus areas
 
-## ⚡ Key Features
-- **Interactive Filtering:** All visuals are interconnected with cross-filtering capabilities
-- **Drill-down Functionality:** Users can explore data at different levels of granularity
-- **Real-time Updates:** Dashboard refreshes automatically with new data
-- **Mobile Responsive:** Optimized for viewing on different devices
-- **Export Capabilities:** Data and visuals can be exported for further analysis
 
 ## 🔧 Technologies Used
 - **Power BI Desktop:** Primary development platform
